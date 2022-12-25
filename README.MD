@@ -52,12 +52,12 @@
 - 📦 [Repository](https://github.com/davewdh/web-projects/tree/main/calculator)
 - 🖥 [Site]()
 
-## Daily Jornal - Blog Website
+## To Do List
 
 - 📦 [Repository]()
 - 🖥 [Site]()
 
-## To Do List v2
+## Daily Jornal - Blog Website
 
 - 📦 [Repository]()
 - 🖥 [Site]()
