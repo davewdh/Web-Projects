@@ -24,7 +24,7 @@
 
 ## Tindog
 
-- 📦 [Repository]()
+- 📦 [Repository](https://github.com/davewdh/web-projects/tree/main/tindog)
 - 🖥 [Site](https://tin-dog2022.netlify.app/)
 
 ## Dice Game
@@ -39,7 +39,7 @@
 
 ## Simon Game
 
-- 📦 [Repository]()
+- 📦 [Repository](https://github.com/davewdh/web-projects/tree/main/simon-game)
 - 🖥 [Site](https://simon-gamee.netlify.app/)
 
 ## Newsletter Signup
