@@ -29,7 +29,7 @@
 
 ## Dice Game
 
-- 📦 [Repository]()
+- 📦 [Repository](https://github.com/davewdh/web-projects/tree/main/dicee-game)
 - 🖥 [Site](https://online-dicee-game.netlify.app/)
 
 ## Online Drum Kit
@@ -44,12 +44,12 @@
 
 ## Newsletter Signup
 
-- 📦 [Repository]()
+- 📦 [Repository](https://github.com/davewdh/web-projects/tree/main/newsletter-signup)
 - 🖥 [Site](https://radiant-meadow-90727.herokuapp.com/)
 
-## To Do List v1
+## Calculator
 
-- 📦 [Repository]()
+- 📦 [Repository](https://github.com/davewdh/web-projects/tree/main/calculator)
 - 🖥 [Site]()
 
 ## Daily Jornal - Blog Website
